@@ -1,4 +1,4 @@
-# My Chrome Extension
+# CodeSprint timer
 
 ## Installation Instructions
 
